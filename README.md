@@ -1,1 +1,5 @@
-# td_tools_release-collection
+# TouchDesigner Tools - Release Collection
+
+Dependencies wget
+`pip install wget`
+

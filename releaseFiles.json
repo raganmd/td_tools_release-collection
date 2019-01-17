@@ -1,0 +1,20 @@
+{
+    "targets" : [
+        {
+            "name"  : "hueControl", 
+            "url"   : "https://github.com/raganmd/touchdesigner-hueControl/blob/master/release/base_hueControl.tox"
+        },
+        {
+            "name"  : "base_save", 
+            "url"   : "https://github.com/raganmd/touchdesigner-save-external/blob/master/release/base_save.tox"
+        },
+        {
+            "name"  : "save_for_release", 
+            "url"   : "https://github.com/raganmd/touchdesigner-tox-prep-for-release/blob/master/release/base_save_for_release.tox"
+        },
+        {
+            "name"  : "dominant_color", 
+            "url"   : "https://github.com/raganmd/touchdesigner-dominant-color/blob/master/release/base_dominant_color.tox"
+        }
+    ]
+}
