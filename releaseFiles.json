@@ -1,7 +1,7 @@
 {
     "targets" : [
         {
-            "name"  : "hueControl", 
+            "name"  : "base_hueControl", 
             "url"   : "https://github.com/raganmd/touchdesigner-hueControl/blob/master/release/base_hueControl.tox"
         },
         {
@@ -9,11 +9,23 @@
             "url"   : "https://github.com/raganmd/touchdesigner-save-external/blob/master/release/base_save.tox"
         },
         {
-            "name"  : "save_for_release", 
+            "name"  : "base_save_for_release", 
             "url"   : "https://github.com/raganmd/touchdesigner-tox-prep-for-release/blob/master/release/base_save_for_release.tox"
         },
         {
-            "name"  : "dominant_color", 
+            "name"  : "base_dominant_color", 
+            "url"   : "https://github.com/raganmd/touchdesigner-dominant-color/blob/master/release/base_dominant_color.tox"
+        },
+        {
+            "name"  : "base_instagram", 
+            "url"   : "https://github.com/raganmd/touchdesigner-dominant-color/blob/master/release/base_dominant_color.tox"
+        },
+        {
+            "name"  : "base_sop-to-svg", 
+            "url"   : "https://github.com/raganmd/touchdesigner-sop-to-svg/blob/master/release/sop-to-svg.tox"
+        },
+        {
+            "name"  : "base_dominant_color", 
             "url"   : "https://github.com/raganmd/touchdesigner-dominant-color/blob/master/release/base_dominant_color.tox"
         }
     ]
